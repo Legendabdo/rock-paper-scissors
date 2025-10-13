@@ -1,0 +1,3 @@
+we want the computer to give us one of three values randomly each time we run the function getcomputerchoice .
+
+we want the player to enter a value from (rock , paper ,scissors) , and then we want the computer to return the function we wrote earlier as a respond .
