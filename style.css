@@ -1,0 +1,26 @@
+body{
+    background-color: blueviolet;
+}
+
+#master{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.maker{
+    font-weight: bold;
+    font-size: 40px;
+}
+button{
+    font-size: 40px;
+}
+#score{
+    text-align: center;
+    font-size: 40px;
+}
+#result{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+}
